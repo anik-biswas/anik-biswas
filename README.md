@@ -11,8 +11,9 @@ I'm Anik Biswas, a passionate Front-End Web Developer from Bangladesh. Welcome t
 - 👯 I’m  looking  to collaborate on some project  for team leading.
 
 ## Current State
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anik-biswas&theme=prussian&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
-
+</p>
 <!-- ## Profile 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik-biswas&show_icons=true&count_private=true&theme=prussian) -->
 

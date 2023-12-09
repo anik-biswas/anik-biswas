@@ -30,8 +30,9 @@ I'm Anik Biswas, a passionate Front-End Web Developer from Bangladesh. Welcome t
   
     
 </p>
--Email : anik.biswas.an@gmail.com
--WhatsApp : +8801625059728
+
+- Email : anik.biswas.an@gmail.com
+- WhatsApp : +8801625059728
 
 ## Technologies I Know
 

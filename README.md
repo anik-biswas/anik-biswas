@@ -27,6 +27,8 @@ I'm Anik Biswas, a passionate Front-End Web Developer from Bangladesh. Welcome t
   <a href="https://www.linkedin.com/in/anik-biswas-0019291a8/">
     <img src="https://i.ibb.co/d6cRdcq/linked.png"  height='40' width='65'  alt="Alt Text">
   </a>
+  -Email : anik.biswas.an@gmail.com
+  -WhatsApp : +8801625059728
     
 </p>
 
